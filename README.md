@@ -113,7 +113,14 @@ This project demonstrates Midnight's core privacy primitive: the ability to prov
 
 ## Screenshots
 
-![Compile output](./screenshots/compile-output.png)
-![Deployed contract address](./screenshots/deployed-address.png)
+### Compile Output Screenshot
+<img width="556" height="123" alt="image" src="https://github.com/user-attachments/assets/9d1077e9-008c-4d6a-8d8d-1115343cc0c6" />
 
-> Screenshots to be added after deployment confirmation.
+### Deployed Contract Address Screenshot
+<img width="662" height="298" alt="image" src="https://github.com/user-attachments/assets/f3565f5b-1dbb-447f-a2a6-9ec94bb35474" />
+
+
+### Tests Running Successfully Screenshot
+<img width="657" height="437" alt="image" src="https://github.com/user-attachments/assets/6aef3b4e-09f2-4760-9e0b-cd663bbbaf0d" />
+
+> All Screenshots Done.
